@@ -1,0 +1,24 @@
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\Aml_webDevelopment\BackEnd\MVC\MvcProject\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\bin\Debug\net5.0\Demo.DAL.deps.json
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\bin\Debug\net5.0\Demo.DAL.dll
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\bin\Debug\net5.0\Demo.DAL.pdb
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.AssemblyReference.cache
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfoInputs.cache
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.AssemblyInfo.cs
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.csproj.CoreCompileInputs.cache
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.dll
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\refint\Demo.DAL.dll
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\Demo.DAL.pdb
+F:\asp.net route course\All Project\MvcProjectFinal\MvcProject\Demo.DAL\obj\Debug\net5.0\ref\Demo.DAL.dll
